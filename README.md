@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaksel&" alt="theaksel" /></p>
 
+![Snake animation](https://github.com/theaksel/theaksel/blob/output/github-contribution-grid-snake.svg)
