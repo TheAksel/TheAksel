@@ -1,7 +1,7 @@
 <a href="https://www.animatedimages.org/cat-christmas-tree-decorations-333.htm"><img src="https://www.animatedimages.org/data/media/333/animated-christmas-tree-decorations-image-0032.gif" border="0" alt="animated-christmas-tree-decorations-image-0032" /></a><a href="https://www.animatedimages.org/cat-christmas-tree-decorations-333.htm"><img src="https://www.animatedimages.org/data/media/333/animated-christmas-tree-decorations-image-0032.gif" border="0" alt="animated-christmas-tree-decorations-image-0032" /></a>
 
 
-![](WiB.gif)
+![](WiB.gif)                                               <h1 align="right">Hi 👋, I'm Aksel</h1> <h3 align="right">A passionate AWS & DevOps from USA</h3>
 
 Consistent Fantasy Is The Reality
 
