@@ -1,5 +1,5 @@
-<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=left width=100 height=100/></a>
-<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=right width=100 height=100/></a>
+<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=left width=75 height=75/></a>
+<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=right width=75 height=75/></a>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel&theme=juicyfresh" alt="theaksel" /></a> </p>
 
 <h1 align="center">Ladies and Gentleman, Mr. Aksel</h1>
@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaksel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f3ea5f" width=490 height=195 alt="theaksel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaksel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f3ea5f" width=300 height=195 alt="theaksel" /></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theaksel&show_icons=true&theme=highcontrast&title_color=f3ea5f&bg_color=000000)
