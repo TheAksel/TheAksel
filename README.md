@@ -1,4 +1,11 @@
-<img src="WiB.gif" align="middle">
 
 
-<img src="4Cb2.gif">
+
+
+
+
+<p align="center">
+  <img src="WiB.gif" />
+</p>
+
+
