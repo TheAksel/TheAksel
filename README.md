@@ -10,11 +10,15 @@
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center" >
+  <img src=https://github-readme-stats.vercel.app/api?username=theaksel&show_icons=true&theme=highcontrast&title_color=f3ea5f&bg_color=000000 width=500 />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaksel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f3ea5f" width=300 height=195 alt="theaksel" /></p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theaksel&show_icons=true&theme=highcontrast&title_color=f3ea5f&bg_color=000000)
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theaksel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f3ea5f" width=500 />
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
