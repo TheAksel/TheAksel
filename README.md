@@ -1,9 +1,11 @@
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel" alt="theaksel" /></a> </p>
+<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=left width=100 height=100/></a>
+<a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=right width=100 height=100/></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel&theme=juicyfresh" alt="theaksel" /></a> </p>
 
+<h1 align="center">Ladies and Gentleman, Mr. Aksel</h1>
+<h3 align="center">Thank you, thank you, thank you my dear wonderful friends. What a thrill it is to be here on this little special GitHub Profile to see some projects, old or new made by me. Don’t forget that maybe you are the lighthouse in someone’s storm. God bless you and all!</h3>
 
-
-
-<p align="center">
+<p align="center" >
   <img src="WiB.gif" />
 </p>
 
