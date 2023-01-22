@@ -1,6 +1,6 @@
 <a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=left width=75 height=75/></a>
 <a href="https://www.animatedimages.org/cat-lighthouse-96.htm"><img src="https://www.animatedimages.org/data/media/96/animated-lighthouse-image-0037.gif" border="0" alt="animated-lighthouse-image-0037" align=right width=75 height=75/></a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel&theme=juicyfresh" alt="theaksel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel&theme=onestar" alt="theaksel" /></a> </p>
 
 <h1 align="center">Welcome to My Github Profile</h1>
 <h3 align="center">Thank you my dear wonderful friends. What a thrill it is to be here on this little special GitHub Profile to see some projects, old or new made by me. Don’t forget that maybe you are the lighthouse in someone’s storm. God bless you and all!</h3>
@@ -24,7 +24,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Christmas Countdown Static Website](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/TheAksel/AWS-Projects)</h3> | Cloudformation, Apache Web Server, EC2, HTML, CSS, JS |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif)
+[Christmas Countdown Static Website](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/TheAksel/AWS-Projects)</h3> | Cloudformation, Apache Web Server, EC2, HTML, CSS, JS |![chat](https://github.com/TheAksel/TheAksel/blob/7bd2cd9b6471076793b4bcbeb9dad1dc84766724/ezgif.com-gif-maker.gif)
 [React ISS Realtime Location App](https://iss-tracker-globe.vercel.app/) <h3>[Repo](https://github.com/canocalir/iss-tracker-globe)</h3> | ReactJS, Redux Toolkit, RTK Query, TypeScript, Three Js, Styled Components |![iss](https://user-images.githubusercontent.com/11324886/209843461-3439e52f-073b-46b9-88c9-ca9a3f77792c.gif)
 
 
