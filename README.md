@@ -3,13 +3,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaksel&theme=onestar" alt="theaksel" /></a> </p>
 
 <h1 align="center">Welcome to My Github Profile</h1>
-<h3 align="center">Thank you my dear wonderful friends. What a thrill it is to be here on this little special GitHub Profile to see some projects, old or new made by me. Don’t forget that maybe you are the lighthouse in someone’s storm. God bless you and all!</h3>
 
 <p align="center" >
-  <img src="WiB.gif" />
+  <img src="1670110439703.jpeg" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center" >
   <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=theaksel&show_icons=true&theme=highcontrast&title_color=f3ea5f&bg_color=000000 width=500 />
 </p>
