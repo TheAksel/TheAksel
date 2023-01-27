@@ -5,8 +5,15 @@
 <h1 align="center">Welcome to My Github Profile</h1>
 
 <p align="center" >
-  <img src="1670110439703.jpeg" />
+  <img src="1670110439703.jpg" />
 </p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Christmas Countdown Static Website](https://github.com/TheAksel/AWS-Projects) | Cloudformation, Apache Web Server, EC2, HTML, CSS, JS |![chat](https://github.com/TheAksel/TheAksel/blob/7bd2cd9b6471076793b4bcbeb9dad1dc84766724/ezgif.com-gif-maker.gif)
+[The Roman Numerals Converter Application](https://github.com/TheAksel/Roman-Numerals-Converter-Application) | Cloudformation, Flask, EC2, AWS CLI, HTML, Bash Script |![iss](https://github.com/TheAksel/TheAksel/blob/576306f97b76f3a36d27de9235f19a0a385bcf9d/project2.gif)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,13 +26,6 @@
 <p align="center" >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=theaksel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f3ea5f" width=500 />
 </p>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Christmas Countdown Static Website](https://github.com/TheAksel/AWS-Projects) | Cloudformation, Apache Web Server, EC2, HTML, CSS, JS |![chat](https://github.com/TheAksel/TheAksel/blob/7bd2cd9b6471076793b4bcbeb9dad1dc84766724/ezgif.com-gif-maker.gif)
-[The Roman Numerals Converter Application](https://github.com/TheAksel/Roman-Numerals-Converter-Application) | Cloudformation, Flask, EC2, AWS CLI, HTML, Bash Script |![iss](https://github.com/TheAksel/TheAksel/blob/576306f97b76f3a36d27de9235f19a0a385bcf9d/project2.gif)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
