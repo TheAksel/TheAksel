@@ -19,6 +19,16 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<p width="100%">
+<a href="https://github.com/theaksel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theaksel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theaksel&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+
+
+
 <p align="center" >
   <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=theaksel&show_icons=true&theme=highcontrast&title_color=f3ea5f&bg_color=000000 width=500 />
 </p>
